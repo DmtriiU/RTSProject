@@ -1,0 +1,18 @@
+﻿type: tank
+name: Танк 1
+price: 20 30
+hp: 80
+speed: 3,5
+damage: 20
+attack: 30
+view: 50
+kills: 0
+type: art
+name: арт1
+price: 2 3
+hp: 8
+speed: 5
+damage: 2
+attack: 3
+view: 5
+kills: 0
